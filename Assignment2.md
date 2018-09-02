@@ -1,4 +1,4 @@
-ssignment 2_1 - Jenkins
+Assignment 2 - Jenkins
 
 ## Installing Blue Ocean
 - Go to  `Manage Jenkins > Manage Plugins`.
